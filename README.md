@@ -1,13 +1,5 @@
 ## 实战
 
-本项目使用的是Vue(2.5.9)实现的组件化课程，侧重思维与方法的训练。在模块化方面不仅涉及常规的JS还有CSS，CSS的模块化使用Sass组织代码，将模块化设计做到极致。在构建部分采用webpack（3.10.0） 和 npm scripts独立完成，不依赖任何第三方的脚手架。
-
-**体验地址**
-
-<img src="./static/enter.png" alt="体验地址" width="160" height="160">
-
-### 安装
-
 ```shell
 git clone https://github.com/cucygh/JDFinance.git
 cd JDFinance
@@ -85,9 +77,3 @@ git checkout 分支名
 这里会定期整理大家常见的问题，访问如下：
 
 <a href="./issue.md" target="_blank">点击查看常见问题</a>
-
-<a href="./QAforLesson12-3.md" target="_blank">关于课程最后抛出的一些可能会遇到的面试问题总结</a> 
-
-### 更多精彩内容
-
-如果喜欢本课程可以关注更多<a href="./note.md" target="_blank">优秀内容</a>，都是多年经验的积累和总结，欢迎大家和我讨论。
